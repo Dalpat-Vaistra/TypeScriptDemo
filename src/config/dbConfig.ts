@@ -17,6 +17,7 @@ const config: ConnectionOptions = {
     cli: {
         migrationsDir: "src/migrations",
     },
+    // migrationsRun: true,
     // ssl: true,
     // extra: {
     //   ssl: {
